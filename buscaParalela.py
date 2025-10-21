@@ -43,9 +43,9 @@ def main():
     
     
 
-    numero_buscado = 42
+    numero_buscado = 789665541
    
-    num_processos = 4
+    num_processos = 8
    
     
     inicio = time.time()

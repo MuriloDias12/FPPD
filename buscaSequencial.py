@@ -11,7 +11,7 @@ def main():
   
     vetor = np.load('A.npy')
    
-    numero_buscado = 42
+    numero_buscado = 789665541
     
     inicio = time.time()
     posicao = busca_sequencial(vetor, numero_buscado)
